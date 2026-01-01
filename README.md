@@ -23,9 +23,11 @@ Top Language: Python is the most popular language among respondents, followed by
 
 Salary Trends: The average global salary for the survey group is $107,450.
 
+Work-Life Balance: Professionals rated their balance at a 5.75/10 on average.
+
 
 DASHBOARD SCREENSHOT:
 
-(DATA PROFESSIONAL SURVEY BREAKDOWN DASHBOARD.png)
+([DATA PROFESSIONAL SURVEY BREAKDOWN DASHBOARD.png](https://github.com/AliShahzad07/Data-Professional-Survey-PowerBI/blob/main/DATA%20PROFESSIONAL%20SURVEY%20BREAKDOWN%20DASHBOARD.png))
 
 Work-Life Balance: Professionals rated their balance at a 5.75/10 on average.

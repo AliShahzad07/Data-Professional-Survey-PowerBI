@@ -23,4 +23,9 @@ Top Language: Python is the most popular language among respondents, followed by
 
 Salary Trends: The average global salary for the survey group is $107,450.
 
+
+DASHBOARD SCREENSHOT:
+
+(DATA PROFESSIONAL SURVEY BREAKDOWN DASHBOARD.png)
+
 Work-Life Balance: Professionals rated their balance at a 5.75/10 on average.
